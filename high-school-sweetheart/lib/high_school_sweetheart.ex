@@ -29,7 +29,5 @@ defmodule HighSchoolSweetheart do
                  ***
                   *
     """
-
-    # Please implement the pair/2 function
   end
 end
