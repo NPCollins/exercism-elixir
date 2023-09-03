@@ -4,7 +4,7 @@ defmodule HighSchoolSweetheart do
   end
 
   def initial(name) do
-    first_letter(name) |> String.upcase |> Kernel.<> "."
+    first_letter(name) |> String.upcase |> Kernel.<>(".")
   end
 
   def initials(full_name) do
